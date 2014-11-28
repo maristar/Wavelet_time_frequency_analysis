@@ -1,6 +1,8 @@
 %% Data analysis using wavelets,
 % for github, 28 11 2014
 % Make sample M-channel signal, here we have 3 channels
+% Writen by Maria l- Stavrinou.
+
 clear all 
 Fs=1000;
 dt=1/Fs;
